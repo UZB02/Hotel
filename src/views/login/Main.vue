@@ -36,7 +36,7 @@
                             </div>
                             <span v-else>Log In</span></button>
                         <p class="text-sm font-light text-gray-500 dark:text-gray-400">
-                            Already have an account? <span @click="() => { router.push('/register') }"
+                            You have not an account? <span @click="() => { router.push('/register') }"
                                 class="font-medium text-primary-600 hover:underline cursor-pointer dark:text-primary-500">Create an acount</span>
                         </p>
                     </form>
