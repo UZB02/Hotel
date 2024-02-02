@@ -72,7 +72,7 @@
         </div>
     </nav>
     <Sidebar />
-    <div class="p-4 sm:ml-64">
+    <div class="pt-14  sm:ml-64">
         <Cards/>
     </div>
 

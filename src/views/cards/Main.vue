@@ -1,5 +1,5 @@
 <template>
-    <div class="container flex flex-wrap items-center  p-8 gap-5">
+    <div class="container flex flex-wrap items-center justify-center  p-8 gap-5">
             <div>
             <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100">
           <img
